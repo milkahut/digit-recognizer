@@ -1,2 +1,2 @@
 # digit-recognizer
-Handwritten-digit recognizer with Multiple Layer Perceptron
+A simple neural network with  Multiple Layer Perceptron (MLP) to recognize handwritten-digits
